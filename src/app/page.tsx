@@ -7,13 +7,15 @@ import { Skills } from './components/Skills'
 
 export default function Home() {
   return (
-    <div className="container mx-auto my-3">
-      <Hero />
-      <Biography />
-      <Skills />
-      <Experiences />
-      <Projects />
-      <Education />
-    </div>
+    <main className="flex w-full flex-1">
+      <div className="mx-auto my-3">
+        <Hero />
+        <Biography />
+        <Skills />
+        <Experiences />
+        <Projects />
+        <Education />
+      </div>
+    </main>
   )
 }
