@@ -19,7 +19,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={baiJamjuree.className}>{children}</body>
+      <body className={`${baiJamjuree.className} bg-ebony-950`}>
+        {children}
+      </body>
     </html>
   )
 }
