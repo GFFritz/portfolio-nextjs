@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 export function Navbar() {
   return (
-    <nav className="mx-auto my-5 hidden w-11/12 justify-between rounded bg-purple-700 bg-opacity-5 px-4 py-2 sm:flex">
+    <nav className="mx-auto my-5 hidden w-11/12 justify-between rounded bg-purple-700 bg-opacity-5 px-4 py-2 sm:flex lg:w-3/4">
       <div>
         <Image
           className="invert"
