@@ -1,12 +1,28 @@
-import { Linkedin, Github, MapPin, Download, Mail } from 'lucide-react'
+import { Linkedin, Github, Download, Mail, Code2 } from 'lucide-react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export function Hero() {
   return (
     <div>
       <div className="flex items-center justify-center gap-4">
-        <Linkedin className="text-zinc-400 hover:text-purple-500" />
-        <Github className="text-zinc-400 hover:text-purple-500" />
+        <div className="group relative w-max">
+          <Link href="https://www.linkedin.com/in/gffritz/">
+            <Linkedin className="text-zinc-400 transition-all duration-500 hover:text-purple-500" />
+            <span className="pointer-events-none absolute -bottom-9 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
+              Linkedin
+            </span>
+          </Link>
+        </div>
+
+        <div className="group relative w-max">
+          <Link href="https://github.com/GFFritz">
+            <Github className="text-zinc-400 transition-all duration-500 hover:text-purple-500" />
+          </Link>
+          <span className="pointer-events-none absolute -bottom-9 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
+            Github
+          </span>
+        </div>
       </div>
 
       <div>
@@ -23,8 +39,8 @@ export function Hero() {
           Gabriel Ferreira Fritz
         </div>
         <div className="flex items-center justify-center gap-1 text-sm text-zinc-400">
-          <MapPin width={15} />
-          Viamão, RS · Brasil · +55 (51) 98605-2303
+          <Code2 width={15} />
+          Full-stack Developer
         </div>
       </div>
 
