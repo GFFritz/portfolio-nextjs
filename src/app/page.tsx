@@ -1,4 +1,5 @@
-import { Biography } from './components/Biography'
+import { About } from './components/About'
+import { Divider } from './components/Divider'
 import { Education } from './components/Education'
 import { Experiences } from './components/Experiences'
 import { Hero } from './components/Hero'
@@ -13,7 +14,8 @@ export default function Home() {
       <div className="flex w-full flex-1">
         <div className="mx-auto my-3">
           <Hero />
-          <Biography />
+          <Divider />
+          <About />
           <Skills />
           <Experiences />
           <Projects />

@@ -25,7 +25,7 @@ export function Hero() {
         </div>
       </div>
 
-      <div>
+      <div className="flex justify-center">
         <Image
           src="/images/gabriel_avatar.png"
           width={300}
