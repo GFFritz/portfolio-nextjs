@@ -1,7 +1,7 @@
 export function About() {
   return (
     <div className="flex w-full justify-center text-sm leading-[1.2rem] text-zinc-200">
-      <div className="w-4/5">
+      <div className="w-4/5 md:w-2/4">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro
         temporibus quibusdam optio quo ab deserunt obcaecati sequi a aut,
         necessitatibus hic. Ipsam, doloribus sint ipsum nam temporibus quibusdam
