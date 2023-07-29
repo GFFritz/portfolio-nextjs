@@ -9,7 +9,7 @@ export function Hero() {
         <div className="group relative w-max">
           <Link href="https://www.linkedin.com/in/gffritz/">
             <Linkedin className="text-zinc-400 transition-all duration-500 hover:text-purple-500" />
-            <span className="pointer-events-none absolute -bottom-9 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
+            <span className="pointer-events-none absolute -bottom-9 -left-6 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
               Linkedin
             </span>
           </Link>
@@ -19,7 +19,7 @@ export function Hero() {
           <Link href="https://github.com/GFFritz">
             <Github className="text-zinc-400 transition-all duration-500 hover:text-purple-500" />
           </Link>
-          <span className="pointer-events-none absolute -bottom-9 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
+          <span className="pointer-events-none absolute -bottom-9 -left-5 w-max rounded bg-purple-500 px-2 text-zinc-300 opacity-0 transition-opacity group-hover:opacity-100">
             Github
           </span>
         </div>

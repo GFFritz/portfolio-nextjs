@@ -14,8 +14,8 @@ export default function Home() {
       <div className="flex w-full flex-1">
         <div className="mx-auto my-3">
           <Hero />
-          <Divider />
           <About />
+          <Divider />
           <Skills />
           <Experiences />
           <Projects />
