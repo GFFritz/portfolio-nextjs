@@ -14,7 +14,7 @@ const Exp = ({ period, title, text, tags }: ExperienceProps) => {
       <div>
         <h1 className="font-semibold uppercase text-zinc-200">{title}</h1>
         <span className="text-sm text-zinc-300">{text}</span>
-        <div className="my-2 flex flex-wrap gap-2">
+        <div className="my-2 flex flex-wrap gap-1">
           {tags.map((tag, index) => (
             <Tag key={index} text={tag} />
           ))}

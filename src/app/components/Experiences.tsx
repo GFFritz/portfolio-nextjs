@@ -22,7 +22,7 @@ export function Experiences() {
             nostrum ipsam, sed, quasi incidunt. Nisi harum dolor maiores
             blanditiis. Iusto, numquam.
           </span>
-          <div className="my-2 flex flex-wrap gap-2">
+          <div className="my-2 flex flex-wrap gap-1">
             <Tag text="Bootstrap" />
             <Tag text="PHP" />
           </div>
@@ -40,7 +40,7 @@ export function Experiences() {
             nostrum ipsam, sed, quasi incidunt. Nisi harum dolor maiores
             blanditiis. Iusto, numquam.
           </span>
-          <div className="my-2 flex flex-wrap gap-2">
+          <div className="my-2 flex flex-wrap gap-1">
             <Tag text="Bootstrap" />
             <Tag text="PHP" />
           </div>
@@ -58,7 +58,7 @@ export function Experiences() {
             nostrum ipsam, sed, quasi incidunt. Nisi harum dolor maiores
             blanditiis. Iusto, numquam.
           </span>
-          <div className="my-2 flex flex-wrap gap-2">
+          <div className="my-2 flex flex-wrap gap-1">
             <Tag text="Bootstrap" />
             <Tag text="NodeJS" />
             <Tag text="ReactJS" />

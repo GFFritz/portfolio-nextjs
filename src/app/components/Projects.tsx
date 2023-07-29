@@ -11,30 +11,11 @@ export function Projects() {
         <div className="rounded bg-purple-800 bg-opacity-20 px-5 py-4 hover:bg-opacity-30">
           <div className="flex justify-between text-purple-500">
             <div>
-              <Folder />
+              <Folder size={20} />
             </div>
-            <div className="flex">
-              <Github />
-              <Link />
-            </div>
-          </div>
-          <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
-          <div className="my-3 text-xs text-zinc-400">Project description</div>
-          <div className="flex flex-wrap gap-2">
-            <Tag text="NextJS" />
-            <Tag text="Tailwindcss" />
-            <Tag text="Typescript" />
-          </div>
-        </div>
-
-        <div className="rounded bg-purple-800 bg-opacity-20 px-5 py-4 shadow-purple-400 hover:bg-opacity-30">
-          <div className="flex justify-between text-purple-500">
-            <div>
-              <Folder />
-            </div>
-            <div className="flex">
-              <Github />
-              <Link />
+            <div className="flex gap-1">
+              <Github size={20} />
+              <Link size={20} />
             </div>
           </div>
           <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
@@ -49,11 +30,30 @@ export function Projects() {
         <div className="rounded bg-purple-800 bg-opacity-20 px-5 py-4 shadow-purple-400 hover:bg-opacity-30">
           <div className="flex justify-between text-purple-500">
             <div>
-              <Folder />
+              <Folder size={20} />
             </div>
-            <div className="flex">
-              <Github />
-              <Link />
+            <div className="flex gap-1">
+              <Github size={20} />
+              <Link size={20} />
+            </div>
+          </div>
+          <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
+          <div className="my-3 text-xs text-zinc-400">Project description</div>
+          <div className="flex flex-wrap gap-2">
+            <Tag text="NextJS" />
+            <Tag text="Tailwindcss" />
+            <Tag text="Typescript" />
+          </div>
+        </div>
+
+        <div className="rounded bg-purple-800 bg-opacity-20 px-5 py-4 shadow-purple-400 hover:bg-opacity-30">
+          <div className="flex justify-between text-purple-500">
+            <div>
+              <Folder size={20} />
+            </div>
+            <div className="flex gap-1">
+              <Github size={20} />
+              <Link size={20} />
             </div>
           </div>
           <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
