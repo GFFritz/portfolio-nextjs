@@ -20,7 +20,7 @@ export function Projects() {
           </div>
           <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
           <div className="my-3 text-xs text-zinc-400">Project description</div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-1">
             <Tag text="NextJS" />
             <Tag text="Tailwindcss" />
             <Tag text="Typescript" />
@@ -39,7 +39,7 @@ export function Projects() {
           </div>
           <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
           <div className="my-3 text-xs text-zinc-400">Project description</div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-1">
             <Tag text="NextJS" />
             <Tag text="Tailwindcss" />
             <Tag text="Typescript" />
@@ -58,7 +58,7 @@ export function Projects() {
           </div>
           <div className="mt-4 font-semibold text-zinc-300">PROJECT NAME</div>
           <div className="my-3 text-xs text-zinc-400">Project description</div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-1">
             <Tag text="NextJS" />
             <Tag text="Tailwindcss" />
             <Tag text="Typescript" />
