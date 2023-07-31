@@ -17,8 +17,11 @@ export default function Home() {
           <About />
           <Divider />
           <Skills />
+          <Divider />
           <Experiences />
+          <Divider />
           <Projects />
+          <Divider />
           <Education />
         </div>
       </div>
