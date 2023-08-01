@@ -5,7 +5,7 @@ import Link from 'next/link'
 export function Hero() {
   return (
     <div>
-      <div className="flex items-center justify-center gap-4">
+      <div className="mt-4 flex items-center justify-center gap-4">
         <div className="group relative w-max">
           <Link href="https://www.linkedin.com/in/gffritz/">
             <Linkedin className="text-zinc-400 transition-all duration-500 hover:text-purple-500" />
