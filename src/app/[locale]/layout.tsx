@@ -1,5 +1,7 @@
 import './globals.css'
 import { Bai_Jamjuree as BaiJamjuree } from 'next/font/google'
+import { useLocale } from 'next-intl'
+import { notFound } from 'next/navigation'
 
 const baiJamjuree = BaiJamjuree({
   subsets: ['latin'],
@@ -17,8 +19,15 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const locale = useLocale()
+
+  // Show a 404 error if the user requests an unknown locale
+  if (locale !== 'en' && locale !== 'pt') {
+    notFound()
+  }
+
   return (
-    <html lang="en">
+    <html lang={locale}>
       <body className={`${baiJamjuree.className} bg-ebony-950`}>
         {children}
       </body>
