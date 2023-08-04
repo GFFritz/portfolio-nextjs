@@ -47,14 +47,20 @@ export function Hero() {
       </div>
 
       <div className="my-4 flex items-center justify-center gap-5">
-        <button className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400">
+        <Link
+          href={t('link-cv')}
+          className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400"
+        >
           {t('btn-cv')}
           <Download size={17} />
-        </button>
-        <button className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400">
+        </Link>
+        <Link
+          href="mailto:gabrielf.frtiz@gmail.com"
+          className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400"
+        >
           {t('btn-contact')}
           <Mail size={17} />
-        </button>
+        </Link>
       </div>
     </div>
   )
