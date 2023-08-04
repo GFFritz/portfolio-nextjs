@@ -1,4 +1,8 @@
 {
+  "Main": {
+    "footer": "Desenvolvido por"
+  },
+
   "About": {
     "title": "Sobre mim",
     "text": "Iniciei a carreira de desenvolvedor em 2018 atuando como front-end numa empresa de desenvolvimento e manutenção de E-commerce. Trabalhei com as techs: PHP, HTML/CSS, Javascript e Sass, Codeigniter. No inicio de 2021 iniciei como desenvolvedor fullstack JR numa empresa de analise de crédito trabalhei em diversos projetos. Utilizei as techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS e ReactJS, AWS, Windows Server, Entre outras... Frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram projetos de pequena escala como Landing pages, até grandes sistemas, ecommerce e integrações.",
@@ -85,9 +89,15 @@
     "courses": {
       "0": {
         "period": "MAR 2016 - AGO 2017",
-        "title": "CURSO TÉCNICO DE TI",
+        "title": "CURSO TÉCNICO DE INFORMÁTICA",
         "subtitle": "QI ESCOLAS E FACULDADES",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nobis suscipit officia voluptate dicta at id, maiores aut eius nostrum facilis exercitationem dignissimos autem. Veritatis optio possimus nesciunt odio similique."
+        "description": "Curso técnico de informática. Foi onde decidi que desenvolvimento era a carreira que eu queria seguir. Terminei o curso como um dos melhores da turma"
+      },
+      "1": {
+        "period": "MAI 2020 - JUL 2020",
+        "title": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+        "subtitle": "Unisinos",
+        "description": "Comecei a graduação, mas devido a pandemia não consegui continuar. Decidi pós pandemia não voltar pois não era o curso que eu procurava. Meu foco é iniciar a faculdade de Engenharia de Software"
       }
     }
   }

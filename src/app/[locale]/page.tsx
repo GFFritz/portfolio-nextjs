@@ -8,7 +8,11 @@ import { Navbar } from './components/Navbar'
 import { Projects } from './components/Projects'
 import { Skills } from './components/Skills'
 
+import { useTranslations } from 'next-intl'
+
 export default function Home() {
+  const t = useTranslations('Main')
+
   return (
     <main>
       <header>
@@ -29,7 +33,7 @@ export default function Home() {
         </div>
       </div>
       <footer className="my-6 flex items-center justify-center text-zinc-400">
-        {new Date().getFullYear()} &copy; Developed by:
+        {new Date().getFullYear()} &copy; {t('footer')}:
         <Link
           className="ms-1 font-semibold"
           href={'mailto:gabrielf.fritz@gmail.com'}
