@@ -1,6 +1,94 @@
 {
   "About": {
     "title": "Sobre mim",
-    "text": "Iniciei na área de desenvolvimento WEB em 2018 atuando numa empresa de desenvolvimento e manutenção de E-commerce. No período, trabalhei com as tecnologias: PHP, HTML/CSS, Javascript e Sass, e os Frameworks: Codeigniter e Opencart 2. Após esse experiencia fiz alguns trabalhos freelance de landing pages utilizando as mesmas tecnologia da experiencia anterior, e trabalhei com suporte e certificações digitais de 2019 até o final de 2020. no inicio de 2021 iniciei como desenvolvedor fullstack JR numa empresa de analise de crédito e negativações, trabalhei com sistemas de ERP, gestão financeira, painel de negativações, APIs Restful, landing pages, E-commerce e aplicações legado. Utilizei as tecnologias: PHP 5/7/8,  MySQL, MSSQL, HTML/CSS, Bootstrap, NodeJS e ReactJS (Esses dois foram poucos coisas que fiz), AWS, Windows Server, Entre outras... Trabalhei com os frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram trabalhos de pequena escala como Landing pages, até grandes sistemas e integrações."
+    "text": "Iniciei a carreira de desenvolvedor em 2018 atuando como front-end numa empresa de desenvolvimento e manutenção de E-commerce. Trabalhei com as techs: PHP, HTML/CSS, Javascript e Sass, Codeigniter. No inicio de 2021 iniciei como desenvolvedor fullstack JR numa empresa de analise de crédito trabalhei em diversos projetos. Utilizei as techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS e ReactJS, AWS, Windows Server, Entre outras... Frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram projetos de pequena escala como Landing pages, até grandes sistemas, ecommerce e integrações.",
+    "btn-cv": "Baixar cv",
+    "link-cv": "docs/cv_gabriel_ferreira_fritz_pt.pdf",
+    "btn-contact": "Contato"
+  }, 
+
+  "Skills": {
+    "title": "Principais Stacks:",
+    "title-2": "Stacks que já usei"
+  },
+
+  "Experiences": {
+    "title": "Experiências Profissionais",
+    "exp": {
+      "0": {
+        "period": "JAN 2021 - MAR 2023",
+        "title": "DESENVOLVEDOR FULLSTACK",
+        "subtitle": "CREDENCIE CONSULTAS CADASTRAIS",
+        "description": "Trabalhei em diversos projetos. Utilizei as techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS e ReactJS, AWS, Windows Server, Entre outras... Frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram projetos de pequena escala como Landing pages, até grandes sistemas, ecommerce e integrações.",
+        "stacks": ["Laravel", "PHP", "HTML", "CSS", "Twig", "NodeJS", "Slim", "Zend", "Opencart", "MySQL", "MySSQL", "ReactJS", "Bootsrap", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets"]
+      },
+      "1": {
+        "period": "DEZ 2019 - DEZ 2020",
+        "title": "Gestor de AR",
+        "subtitle": "BDI BRASIL E-BUSINESS DIGITAL",
+        "description": "Manutenção do site da empresa, gestão da rede de pontos e dos funcionários da empresa. Validação e aprovação de certificados digitais",
+        "stacks": ["HTML", "CSS", "MySQL", "Office"]
+      },
+      "2": {
+        "period": "JAN 2018 - ABR 2018",
+        "title": "DESENVOLVEDOR FRONT-END",
+        "subtitle": "N49 NEGÓCIOS DIGITAIS",
+        "description": "Desenvolvimento e manutenção de diversos projetos E-commerce. Trabalhei com as techs: PHP, HTML/CSS, Javascript e Sass, Codeigniter.",
+        "stacks": ["HTML", "CSS", "PHP", "Bootstrap", "SASS", "Javascript", "Codeigniter", "Opencart"]
+      }
+    }
+  },
+
+  "Projects": {
+    "title": "Projetos",
+    "pro-title": "Projetos Profissionais",
+    "personal-title": "Projetos Pessoais",
+    "pro": {
+      "0": {
+        "title": "AlertaCar",
+        "description": "Projeto de integração com whatsapp e APIs terceiras e ERP, utilizando SOAP e REST",
+        "link": "https://alertacar.com.br",
+        "stacks": ["Reacjs", "Laravel 8", "Node", "REST API", "SOAP", "Sockets"]
+      },
+      "1": {
+        "title": "IndikeGanhe",
+        "description": "Painel com integrações de CRMs e ERP, utilizando REST",
+        "link": "https://indikeganhe.com.br",
+        "stacks": ["Reacjs", "PHP", "Laravel 8", "REST API"]
+      },
+      "2": {
+        "Pefin": "Pefin",
+        "description": "Painel com integração de API própria e APIs de terceiros",
+        "link": "https://credencieconsultas.com.br",
+        "stacks": ["Slim", "PHP", "Twig", "Node", "Bootstrap"]
+      },
+      "3": {
+        "Pefin": "Credencie Digital",
+        "description": "Ecommerce, integrado com APIs de terceiros",
+        "link": "#",
+        "stacks": ["Opencart", "PHP", "Lumen", "Bootstrap", "REST API"]
+      }
+    },
+    "personal": {
+      "0": {
+        "title": "Project Title",
+        "description": "Project Description",
+        "github": "",
+        "link": "https://project.com",
+        "stacks": ["Reacjs", "Laravel 8", "Node", "REST API", "SOAP", "Sockets"]
+      }
+    }
+  }, 
+
+  "Education": {
+    "title": "Acadêmico",
+    "courses": {
+      "0": {
+        "period": "MAR 2016 - AGO 2017",
+        "title": "CURSO TÉCNICO DE TI",
+        "subtitle": "QI ESCOLAS E FACULDADES",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nobis suscipit officia voluptate dicta at id, maiores aut eius nostrum facilis exercitationem dignissimos autem. Veritatis optio possimus nesciunt odio similique."
+      }
+    }
   }
 }
