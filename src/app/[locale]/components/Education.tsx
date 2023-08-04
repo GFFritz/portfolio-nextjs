@@ -19,7 +19,7 @@ export function Education() {
   return (
     <div className="mx-auto flex w-full flex-col items-center gap-4">
       <h1 className="mb-4 text-center text-2xl font-medium text-zinc-100">
-        Education
+        {t('title')}
       </h1>
 
       {Object.values(courses).map((courseData, index) => (
