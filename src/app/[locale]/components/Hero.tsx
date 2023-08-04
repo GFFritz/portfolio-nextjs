@@ -1,8 +1,10 @@
 import { Linkedin, Github, Download, Mail, Code2 } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
+import { useTranslations } from 'next-intl'
 
 export function Hero() {
+  const t = useTranslations('About')
   return (
     <div>
       <div className="mt-4 flex items-center justify-center gap-4">
@@ -25,7 +27,7 @@ export function Hero() {
         </div>
       </div>
 
-      <div className="flex justify-center">
+      <div className="my-8 flex justify-center">
         <Image
           src="/images/gabriel_avatar.png"
           width={300}
@@ -46,11 +48,11 @@ export function Hero() {
 
       <div className="my-4 flex items-center justify-center gap-5">
         <button className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400">
-          Baixar CV
+          {t('btn-cv')}
           <Download size={17} />
         </button>
         <button className="flex items-center gap-2 rounded border border-purple-600 px-4 py-1 uppercase text-purple-500 transition-all duration-500 hover:border-transparent hover:bg-purple-800 hover:text-purple-400">
-          Contato
+          {t('btn-contact')}
           <Mail size={17} />
         </button>
       </div>
