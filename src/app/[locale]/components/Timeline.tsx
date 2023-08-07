@@ -11,7 +11,7 @@ interface TimelineProps {
 const Timeline = ({ period, title, subtitle, text, tags }: TimelineProps) => {
   return (
     <div className="xl:max block w-4/5 justify-center gap-5 rounded px-5 py-4 hover:bg-purple-700 hover:bg-opacity-5 md:w-2/4 lg:flex">
-      <div className="w-2/3 text-sm text-zinc-400 lg:w-1/3 xl:w-2/5 2xl:w-1/5">
+      <div className="w-2/3 text-sm text-zinc-400 lg:w-1/3 lg:text-end">
         {period}
       </div>
       <div className="lg:w-5/6 2xl:w-2/4">
