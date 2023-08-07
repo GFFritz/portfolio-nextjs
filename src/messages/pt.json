@@ -61,13 +61,13 @@
         "stacks": ["Reacjs", "PHP", "Laravel 8", "REST API"]
       },
       "2": {
-        "Pefin": "Pefin",
+        "title": "Pefin",
         "description": "Painel com integração de API própria e APIs de terceiros",
         "link": "https://credencieconsultas.com.br",
         "stacks": ["Slim", "PHP", "Twig", "Node", "Bootstrap"]
       },
       "3": {
-        "Pefin": "Credencie Digital",
+        "title": "Credencie Digital",
         "description": "Ecommerce, integrado com APIs de terceiros",
         "link": "#",
         "stacks": ["Opencart", "PHP", "Lumen", "Bootstrap", "REST API"]

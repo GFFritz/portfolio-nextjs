@@ -5,7 +5,7 @@
 
   "About": {
     "title": "About me",
-    "text": "I started my developer career in 2018 working as a front-end in an E-commerce development and maintenance company. I worked with the techs: PHP, HTML/CSS, Javascript and Sass, Codeigniter. In early 2021 I started as a fullstack JR developer at a credit analysis company and worked on several projects. I used the techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS and ReactJS, AWS, Windows Server, among others... PHP Frameworks: Zend 1, Slim 3, OpenCart 2, Wordpress and mainly Laravel. They ranged from small-scale projects such as Landing pages, to large systems, e-commerce and integrations.",
+    "text": "I started my developer career in 2018 working as a front-end in an E-commerce development and maintenance company. I worked with the techs: PHP, HTML/CSS, Javascript and Sass, Codeigniter. In early 2021 I started as a fullstack JR developer at a credit analysis company and worked on several projects. I used the techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS and ReactJS, AWS, Windows Server, among others... PHP Frameworks: Zend 1, Slim 3, OpenCart 2, Wordpress and mainly Laravel. They ranged from small-scale projects such as Landing pages, to large systems such as e-commerce and integrations.",
     "btn-cv": "Download cv",
     "link-cv": "docs/cv_gabriel_ferreira_fritz_en.pdf",
     "btn-contact": "Contact"
@@ -61,13 +61,13 @@
         "stacks": ["Reacjs", "PHP", "Laravel 8", "REST API"]
       },
       "2": {
-        "Pefin": "Pefin",
+        "title": "Pefin",
         "description": "Panel with own API integration and third-party APIs",
         "link": "https://credencieconsultas.com.br",
         "stacks": ["Slim", "PHP", "Twig", "Node", "Bootstrap"]
       },
       "3": {
-        "Pefin": "Credencie Digital",
+        "title": "Credencie Digital",
         "description": "Ecommerce, integrated with third-party APIs",
         "link": "#",
         "stacks": ["Opencart", "PHP", "Lumen", "Bootstrap", "REST API"]
