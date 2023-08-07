@@ -26,7 +26,7 @@ export function Projects() {
       <h2 className="mb-3 flex justify-center text-lg text-zinc-400">
         {t('pro-title')}
       </h2>
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
+      <div className="mx-auto grid max-w-[70%] grid-cols-1 gap-4 sm:max-w-none sm:grid-cols-2 xl:grid-cols-4">
         {Object.values(project).map((projectData, index) => (
           <Project
             key={index}
