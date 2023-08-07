@@ -14,12 +14,12 @@ export default function Home() {
 
   return (
     <main>
-      <header>
+      <header className="m-auto flex flex-col md:w-3/4">
         <Hero />
         <About />
         <Divider />
       </header>
-      <div className="flex w-full flex-1">
+      <div className="m-auto flex w-full flex-1 md:w-3/4">
         <div className="mx-auto my-3">
           <Skills />
           <Divider />
