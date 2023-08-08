@@ -16,7 +16,7 @@ const Project = ({ title, description, link, github, tags }: ProjectProps) => {
       <div className="flex justify-between text-purple-500">
         {link && (
           <div className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-purple-800 hover:bg-opacity-25">
-            <Link href={link}>
+            <Link href={link} target="_blank">
               <LinkIcon size={20} />
             </Link>
           </div>
