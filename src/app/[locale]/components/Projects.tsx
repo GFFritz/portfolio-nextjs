@@ -16,6 +16,7 @@ interface ProjectsData {
 export function Projects() {
   const t = useTranslations('Projects')
   const project: ProjectsData = t.raw('pro')
+  const personalProject: ProjectsData = t.raw('personal')
 
   return (
     <div className="mx-auto w-4/5">
@@ -39,34 +40,21 @@ export function Projects() {
         ))}
       </div>
 
-      {/* <hr className="mx-auto my-10 flex w-2/4 rounded-full border-emerald-600 opacity-30" />
-
-      <h2 className="mb-3 flex justify-center text-lg text-zinc-400">
-        Projetos Pessoais
+      <h2 className="mb-3 mt-6 flex justify-center text-lg text-zinc-400">
+        {t('personal-title')}
       </h2>
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
-        <Project
-          title="AlertaCar"
-          link="https://alertacar.com.br"
-          description="Project Description"
-          tags={['Reacjs', 'Laravel 8', 'REST API']}
-        />
-
-        <Project
-          link="https://alertacar.com.br"
-          github="http://teste.com"
-          title="IndikeGanhe"
-          description="Project Description"
-          tags={['Reacjs', 'Laravel 8', 'REST API']}
-        />
-
-        <Project
-          link="https://alertacar.com.br"
-          title="AlertaCar"
-          description="Project Description"
-          tags={['Reacjs', 'Laravel 8', 'REST API']}
-        />
-      </div> */}
+      <div className="mx-auto grid max-w-[70%] grid-cols-1 gap-4 sm:max-w-none sm:grid-cols-2 xl:grid-cols-4">
+        {Object.values(personalProject).map((ProjectsData, index) => (
+          <Project
+            key={index}
+            title={ProjectsData.title}
+            link={ProjectsData.link}
+            github={ProjectsData.github}
+            description={ProjectsData.description}
+            tags={ProjectsData.stacks}
+          />
+        ))}
+      </div>
     </div>
   )
 }

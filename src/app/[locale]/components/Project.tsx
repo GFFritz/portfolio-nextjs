@@ -1,4 +1,4 @@
-import { Folder, Github, LinkIcon } from 'lucide-react'
+import { Github, LinkIcon } from 'lucide-react'
 import Link from 'next/link'
 import Tag from './Tags'
 
@@ -15,19 +15,23 @@ const Project = ({ title, description, link, github, tags }: ProjectProps) => {
     <div className="rounded bg-purple-800 bg-opacity-20 px-5 py-4 hover:bg-opacity-30">
       <div className="flex justify-between text-purple-500">
         {link && (
-          <div className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-purple-800 hover:bg-opacity-25">
-            <Link href={link} target="_blank">
-              <LinkIcon size={20} />
-            </Link>
-          </div>
+          <Link
+            className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-purple-800 hover:bg-opacity-25"
+            href={link}
+            target="_blank"
+          >
+            <LinkIcon size={20} />
+          </Link>
         )}
 
         {github && (
-          <div className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-purple-800 hover:bg-opacity-25">
-            <Link href={github}>
-              <Github size={20} />
-            </Link>
-          </div>
+          <Link
+            className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-purple-800 hover:bg-opacity-25"
+            href={github}
+            target="_blank"
+          >
+            <Github size={20} />
+          </Link>
         )}
       </div>
       <div className="mt-4 font-semibold text-zinc-300">{title}</div>
