@@ -20,11 +20,11 @@
     "title": "Experiências Profissionais",
     "exp": {
       "0": {
-        "period": "JAN 2021 - MAR 2023",
-        "title": "DESENVOLVEDOR FULLSTACK",
-        "subtitle": "CREDENCIE CONSULTAS CADASTRAIS",
-        "description": "Trabalhei em diversos projetos. Utilizei as techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS e ReactJS, AWS, Windows Server, Entre outras... Frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram projetos de pequena escala como Landing pages, até grandes sistemas, ecommerce e integrações.",
-        "stacks": ["Laravel", "PHP", "HTML", "CSS", "Twig", "NodeJS", "Slim", "Zend", "Opencart", "MySQL", "MySSQL", "ReactJS", "Bootsrap", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets"]
+        "period": "JAN 2018 - ABR 2018",
+        "title": "DESENVOLVEDOR FRONT-END",
+        "subtitle": "N49 NEGÓCIOS DIGITAIS",
+        "description": "Desenvolvimento e manutenção de diversos projetos E-commerce. Trabalhei com as techs: PHP, HTML/CSS, Javascript e Sass, Codeigniter.",
+        "stacks": ["HTML", "CSS", "PHP", "Bootstrap", "SASS", "Javascript", "Codeigniter", "Opencart"]
       },
       "1": {
         "period": "DEZ 2019 - DEZ 2020",
@@ -34,11 +34,18 @@
         "stacks": ["HTML", "CSS", "MySQL", "Office"]
       },
       "2": {
-        "period": "JAN 2018 - ABR 2018",
-        "title": "DESENVOLVEDOR FRONT-END",
-        "subtitle": "N49 NEGÓCIOS DIGITAIS",
-        "description": "Desenvolvimento e manutenção de diversos projetos E-commerce. Trabalhei com as techs: PHP, HTML/CSS, Javascript e Sass, Codeigniter.",
-        "stacks": ["HTML", "CSS", "PHP", "Bootstrap", "SASS", "Javascript", "Codeigniter", "Opencart"]
+        "period": "JAN 2021 - MAR 2023",
+        "title": "DESENVOLVEDOR FULLSTACK",
+        "subtitle": "CREDENCIE CONSULTAS CADASTRAIS",
+        "description": "Trabalhei em diversos projetos. Utilizei as techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS e ReactJS, AWS, Windows Server, Entre outras... Frameworks PHP: Zend 1, Slim 3, OpenCart 2, Wordpress e principalmente Laravel. Foram projetos de pequena escala como Landing pages, até grandes sistemas, ecommerce e integrações.",
+        "stacks": ["Laravel", "PHP", "HTML", "CSS", "Twig", "NodeJS", "Slim", "Zend", "Opencart", "MySQL", "MySSQL", "ReactJS", "Bootsrap", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets"]
+      },
+      "3": {
+        "period": "AGO 2023 - ATUALMENTE",
+        "title": "ENGENHEIRO DE SOFTWARE",
+        "subtitle": "GRUPO VMM",
+        "description": "Trabalho em diversos projetos de diversas stacks diferentes, desde pequenas landing pages a grandes projetos integrados, montagem, manutenção e gestão de servidores, treinamento de ferramentas",
+        "stacks": ["PHP", "HTML", "CSS", "Twig", "NodeJS", "Wordpress", "Opencart", "MySQL", "ReactJS", "Tailwindcss", "Bootsrap", "Elementor", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets", "Make.com"]
       }
     }
   },
@@ -46,7 +53,7 @@
   "Projects": {
     "title": "Projetos",
     "pro-title": "Projetos Profissionais",
-    "personal-title": "Projetos Pessoais",
+    "personal-title": "Projetos Pessoais/Free lance",
     "pro": {
       "0": {
         "title": "AlertaCar",
@@ -75,11 +82,25 @@
     },
     "personal": {
       "0": {
-        "title": "Project Title",
-        "description": "Project Description",
-        "github": "",
-        "link": "https://project.com",
-        "stacks": ["Reacjs", "Laravel 8", "Node", "REST API", "SOAP", "Sockets"]
+        "title": "Sambanismo",
+        "description": "Uma simples Landing Page feita com HTML e Tailwincss",
+        "github": "https://github.com/GFFritz/sambanismo-lp",
+        "link": "https://sambanismo.com",
+        "stacks": ["Tailwindcss", "Javascript", "HTML", "CSS"]
+      },
+      "1": {
+        "title": "Spotify Clone",
+        "description": "Clone do Spotify feito com NextJS e Tailwindcss",
+        "github": "https://github.com/GFFritz/spotify-clone",
+        "link": "",
+        "stacks": ["NextJS", "Tailwindcss", "Typescript", "HTML/CSS"]
+      },
+      "2": {
+        "title": "InvestPlay",
+        "description": "Uma simples Landing Page feita com HTML e Bootstrap",
+        "github": "https://github.com/GFFritz/invest-play",
+        "link": "https://investplay.net",
+        "stacks": ["Bootstrap", "Javascript", "HTML", "CSS"]
       }
     }
   }, 
