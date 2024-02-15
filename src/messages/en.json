@@ -2,20 +2,17 @@
   "Main": {
     "footer": "Developed by"
   },
-
   "About": {
     "title": "About me",
-    "text": "I started my developer career in 2018 working as a front-end in an E-commerce development and maintenance company. I worked with the techs: PHP, HTML/CSS, Javascript and Sass, Codeigniter. In early 2021 I started as a fullstack JR developer at a credit analysis company and worked on several projects. I used the techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS and ReactJS, AWS, Windows Server, among others... PHP Frameworks: Zend 1, Slim 3, OpenCart 2, Wordpress and mainly Laravel. They ranged from small-scale projects such as Landing pages, to large systems such as e-commerce and integrations.",
+    "text": "I started my career as a developer in 2018, focusing on front-end work for an e-commerce company. There, I acquired skills in PHP, HTML/CSS, JavaScript, Sass, and Codeigniter. In early 2021, I was promoted to a junior full-stack developer position at a credit analysis company. I worked on various projects using PHP, MySQL, HTML/CSS, Bootstrap, NodeJS, ReactJS, AWS, and Windows Server. I worked with various PHP frameworks, including Zend 1, Slim 3, OpenCart 2, Wordpress, and primarily Laravel. Projects ranged from small landing pages to complex e-commerce systems and integrations. In mid-2023, I took on the challenge of establishing a technology department in a company previously reliant on Wordpress for its projects. I played a key role in implementing new technologies and agile methodologies.",
     "btn-cv": "Download cv",
     "link-cv": "docs/cv_gabriel_ferreira_fritz_en.pdf",
     "btn-contact": "Contact"
-  }, 
-
+  },
   "Skills": {
     "title": "Main Stacks:",
     "title-2": "Other Stacks"
   },
-
   "Experiences": {
     "title": "Professional Experiences",
     "exp": {
@@ -24,32 +21,88 @@
         "title": "FRONT-END DEVELOPER",
         "subtitle": "N49 NEGÓCIOS DIGITAIS",
         "description": "Development and maintenance of several E-commerce projects. I worked with the techs: PHP, HTML/CSS, Javascript and Sass, Codeigniter.",
-        "stacks": ["HTML", "CSS", "PHP", "Bootstrap", "SASS", "Javascript", "Codeigniter", "Opencart"]
+        "stacks": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "Bootstrap",
+          "SASS",
+          "Javascript",
+          "Codeigniter",
+          "Opencart"
+        ]
       },
       "1": {
         "period": "DEZ 2019 - DEZ 2020",
         "title": "AR Manager",
         "subtitle": "BDI BRASIL E-BUSINESS DIGITAL",
         "description": "Maintenance of the company's website, management of the points network and the company's employees. Validation and approval of digital certificates",
-        "stacks": ["HTML", "CSS", "MySQL", "Office"]
+        "stacks": [
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Office"
+        ]
       },
       "2": {
         "period": "JAN 2021 - MAR 2023",
         "title": "FULLSTACK DEVELOPER",
         "subtitle": "CREDENCIE CONSULTAS CADASTRAIS",
         "description": "I worked on several projects. I used the techs: PHP, MySQL, HTML/CSS, Bootstrap, NodeJS and ReactJS, AWS, Windows Server, among others... PHP Frameworks: Zend 1, Slim 3, OpenCart 2, Wordpress and mainly Laravel. They ranged from small-scale projects such as Landing pages, to large systems, e-commerce and integrations.",
-        "stacks": ["Laravel", "PHP", "HTML", "CSS", "Twig", "NodeJS", "Slim", "Zend", "Opencart", "MySQL", "MySSQL", "ReactJS", "Bootsrap", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets"]
+        "stacks": [
+          "Laravel",
+          "PHP",
+          "HTML",
+          "CSS",
+          "Twig",
+          "NodeJS",
+          "Slim",
+          "Zend",
+          "Opencart",
+          "MySQL",
+          "MySSQL",
+          "ReactJS",
+          "Bootsrap",
+          "AWS",
+          "Git",
+          "Linux",
+          "Figma",
+          "SOAP",
+          "REST API",
+          "Sockets"
+        ]
       },
       "3": {
         "period": "AGO 2023 - NOW",
         "title": "SOFTWARE ENGINEERING",
         "subtitle": "GRUPO VMM",
         "description": "I worked on several projects in a lot of stacks, from small landing pages to large integrated projetcs, create, manage and maintenance of servers, systems training",
-        "stacks": ["PHP", "HTML", "CSS", "Twig", "NodeJS", "Wordpress", "Opencart", "MySQL", "ReactJS", "Tailwindcss", "Bootsrap", "Elementor", "AWS", "Git", "Linux", "Figma", "SOAP", "REST API", "Sockets", "Make.com", "DevOPS"]
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Twig",
+          "NodeJS",
+          "Wordpress",
+          "Opencart",
+          "MySQL",
+          "ReactJS",
+          "Tailwindcss",
+          "Bootsrap",
+          "Elementor",
+          "AWS",
+          "Git",
+          "Linux",
+          "Figma",
+          "SOAP",
+          "REST API",
+          "Sockets",
+          "Make.com",
+          "DevOPS"
+        ]
       }
     }
   },
-
   "Projects": {
     "title": "Projects",
     "pro-title": "Professional Projects",
@@ -59,25 +112,61 @@
         "title": "AlertaCar",
         "description": "Integration project with whatsapp and third-party APIs and ERP, using SOAP and REST",
         "link": "https://alertacar.com.br",
-        "stacks": ["Reacjs", "Laravel 8", "Node", "REST API", "SOAP", "Sockets"]
+        "stacks": [
+          "Reacjs",
+          "Laravel 8",
+          "Node",
+          "REST API",
+          "SOAP",
+          "Sockets"
+        ]
       },
       "1": {
         "title": "IndikeGanhe",
         "description": "Panel with CRM and ERP integrations, using REST",
         "link": "https://indikeganhe.com.br",
-        "stacks": ["Reacjs", "PHP", "Laravel 8", "REST API"]
+        "stacks": [
+          "Reacjs",
+          "PHP",
+          "Laravel 8",
+          "REST API"
+        ]
       },
       "2": {
         "title": "Pefin",
         "description": "Panel with own API integration and third-party APIs",
         "link": "https://credencieconsultas.com.br",
-        "stacks": ["Slim", "PHP", "Twig", "Node", "Bootstrap"]
+        "stacks": [
+          "Slim",
+          "PHP",
+          "Twig",
+          "Node",
+          "Bootstrap"
+        ]
       },
       "3": {
         "title": "Credencie Digital",
         "description": "Ecommerce, integrated with third-party APIs",
-        "link": "#",
-        "stacks": ["Opencart", "PHP", "Lumen", "Bootstrap", "REST API"]
+        "link": "https://credenciedigital.com.br",
+        "stacks": [
+          "Opencart",
+          "PHP",
+          "Lumen",
+          "Bootstrap",
+          "REST API"
+        ]
+      },
+      "4": {
+        "title": "GEOLAW",
+        "description": "Web system - CMS",
+        "link": "https://geolaw.org",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascrip",
+          "Tailwindcss"
+        ]
       }
     },
     "personal": {
@@ -86,25 +175,39 @@
         "description": "A simple Landing page made with HTML and Tailwindcss",
         "github": "https://github.com/GFFritz/sambanismo-lp",
         "link": "https://sambanismo.com",
-        "stacks": ["Tailwindcss", "Javascript", "HTML", "CSS"]
+        "stacks": [
+          "Tailwindcss",
+          "Javascript",
+          "HTML",
+          "CSS"
+        ]
       },
       "1": {
         "title": "Spotify Clone",
         "description": "Spotify clone made with NextJs and Tailwindcss",
         "github": "https://github.com/GFFritz/spotify-clone",
         "link": "",
-        "stacks": ["NextJS", "Tailwindcss", "Typescript", "HTML/CSS"]
+        "stacks": [
+          "NextJS",
+          "Tailwindcss",
+          "Typescript",
+          "HTML/CSS"
+        ]
       },
       "2": {
         "title": "InvestPlay",
         "description": "Simple Landing page made with html and Bootstrap",
         "github": "https://github.com/GFFritz/invest-play",
         "link": "https://investplay.net",
-        "stacks": ["Bootstrap", "Javascript", "HTML", "CSS"]
+        "stacks": [
+          "Bootstrap",
+          "Javascript",
+          "HTML",
+          "CSS"
+        ]
       }
     }
-  }, 
-
+  },
   "Education": {
     "title": "Education",
     "courses": {
