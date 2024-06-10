@@ -167,6 +167,43 @@
           "Javascript",
           "Tailwindcss"
         ]
+      },
+      "5": {
+        "title": "LQuest - Seja um parceiro",
+        "description": "Landing Page, developed based on a figma Layout using HTML, Tailwindcss and Javascript",
+        "link": "https://lquest.global/sejaumparceiro/",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss"
+        ]
+      },
+      "6": {
+        "title": "Grupo VMM",
+        "description": "Landing Page and Wordpress Blog developed based on a figma Layout using HTML, Tailwindcss and Javascript",
+        "link": "https://grupovmm.com.br",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss",
+          "Wordpress"
+        ]
+      },
+      "7": {
+        "title": "Dia dos namorados - Publicar Painéis",
+        "description": "Landing Page developed based on a figma Layout using HTML, Tailwindcss and Javascript",
+        "link": "https://diadosnamorados.publicarpaineis.com.br/",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss"
+        ]
       }
     },
     "personal": {
@@ -201,6 +238,19 @@
         "link": "https://investplay.net",
         "stacks": [
           "Bootstrap",
+          "Javascript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      "3": {
+        "title": "Araken Santos",
+        "description": "A Landing Page with social links and a data management panel. Made with Front-end made with: HTML, Tailwindcss and Javascript. Back-end panel made with: PHP and Javasript",
+        "github": "https://github.com/GFFritz/araken-site",
+        "link": "https://arakensantos.tmaissaude.com.br",
+        "stacks": [
+          "PHP",
+          "Tailwindcss",
           "Javascript",
           "HTML",
           "CSS"

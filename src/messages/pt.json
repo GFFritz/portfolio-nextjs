@@ -157,8 +157,45 @@
       },
       "4": {
         "title": "GEOLAW",
-        "description": "Sistema Web - CMS",
+        "description": "Sistema Web - CMS, desenvolvida com base em um Layout do figma",
         "link": "https://geolaw.org",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss"
+        ]
+      },
+      "5": {
+        "title": "LQuest - Seja um parceiro",
+        "description": "Landing Page, desenvolvida com base em um Layout do figma utilizando HTML, Tailwindcss e Javascript",
+        "link": "https://lquest.global/sejaumparceiro/",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss"
+        ]
+      },
+      "6": {
+        "title": "Grupo VMM",
+        "description": "Landing Page e Blog Wordpress desenvolvidos com base em um Layout do figma utilizando HTML, Tailwindcss e Javascript",
+        "link": "https://grupovmm.com.br",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Tailwindcss",
+          "Wordpress"
+        ]
+      },
+      "7": {
+        "title": "Dia dos namorados - Publicar Painéis",
+        "description": "Landing Page desenvolvidos com base em um Layout do figma utilizando HTML, Tailwindcss e Javascript",
+        "link": "https://diadosnamorados.publicarpaineis.com.br/",
         "stacks": [
           "PHP",
           "HTML",
@@ -200,6 +237,19 @@
         "link": "https://investplay.net",
         "stacks": [
           "Bootstrap",
+          "Javascript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      "3": {
+        "title": "Araken Santos",
+        "description": "Uma Landing Page de links sociais e Painel de gestão dos dados. Feita com Front-end feito com: HTML, Tailwindcss e Javascript. Painel back-end feito com: PHP e Javasript",
+        "github": "https://github.com/GFFritz/araken-site",
+        "link": "https://arakensantos.tmaissaude.com.br",
+        "stacks": [
+          "PHP",
+          "Tailwindcss",
           "Javascript",
           "HTML",
           "CSS"
