@@ -73,9 +73,38 @@
         ]
       },
       "3": {
-        "period": "AGO 2023 - NOW",
+        "period": "AGO 2023 - JUN 2024",
         "title": "SOFTWARE ENGINEERING",
         "subtitle": "GRUPO VMM",
+        "description": "I worked on several projects in a lot of stacks, from small landing pages to large integrated projetcs, create, manage and maintenance of servers, systems training",
+        "stacks": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Twig",
+          "NodeJS",
+          "Wordpress",
+          "Opencart",
+          "MySQL",
+          "ReactJS",
+          "Tailwindcss",
+          "Bootsrap",
+          "Elementor",
+          "AWS",
+          "Git",
+          "Linux",
+          "Figma",
+          "SOAP",
+          "REST API",
+          "Sockets",
+          "Make.com",
+          "DevOPS"
+        ]
+      },
+      "4": {
+        "period": "JUN 2024 - NOW",
+        "title": "TECH LEAD",
+        "subtitle": "Oito.CC",
         "description": "I worked on several projects in a lot of stacks, from small landing pages to large integrated projetcs, create, manage and maintenance of servers, systems training",
         "stacks": [
           "PHP",
