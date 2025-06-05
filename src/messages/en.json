@@ -233,6 +233,50 @@
           "Javascript",
           "Tailwindcss"
         ]
+      },
+      "8": {
+        "title": "Grupo Setto",
+        "description": "Landing page developed based on a Figma layout using HTML, TailwindCSS, and JavaScript.",
+        "link": "https://gruposetto.com.br/",
+        "stacks": [
+          "Laravel",
+          "HTML",
+          "JavaScript",
+          "TailwindCSS"
+        ]
+      },
+      "9": {
+        "title": "Jusbrasil - Impact",
+        "description": "A complete blog with a CMS panel for managing posts, categories, and users with different access levels. Developed using Laravel 8, HTML/CSS, JavaScript, MySQL, and TailwindCSS.",
+        "link": "https://nossoimpacto.jusbrasil.com.br",
+        "stacks": [
+          "Laravel",
+          "HTML",
+          "JavaScript",
+          "TailwindCSS"
+        ]
+      },
+      "10": {
+        "title": "Jusbrasil - JUSTECH",
+        "description": "A complete blog with a CMS panel for managing posts, categories, and users with different access levels. Developed using Laravel 8, HTML/CSS, JavaScript, MySQL, and TailwindCSS.",
+        "link": "https://justech.jusbrasil.com.br",
+        "stacks": [
+          "Laravel",
+          "HTML",
+          "JavaScript",
+          "TailwindCSS"
+        ]
+      },
+      "11": {
+        "title": "Lp LONNA",
+        "description": "Showcase landing page with a service status panel for clients. It has two access levels: admin and client. Clients can view their service, delivery status, and watch a livestream of the service assembly. Developed using Laravel 8, HTML/CSS, JavaScript, MySQL, and TailwindCSS.",
+        "link": "https://justech.jusbrasil.com.br",
+        "stacks": [
+          "Laravel",
+          "HTML",
+          "JavaScript",
+          "TailwindCSS"
+        ]
       }
     },
     "personal": {
