@@ -266,7 +266,7 @@
         ]
       },
       "11": {
-        "title": "Lp LONNA",
+        "title": "LP LONNA",
         "description": "Landing page de vitrine com um painel de status de serviço para clientes. Possui 2 niveis de acesso para admin e clientes onde o cliente consegue ver o seu serviço, status de entrega do serviço e possui uma livestream da montagem do serviço para acompanhar. Foi desenvolvido utilizando Laravel 8, HTML/CSS, Javascript MySQL e Tailwindcss. ",
         "link": "https://justech.jusbrasil.com.br",
         "stacks": [
