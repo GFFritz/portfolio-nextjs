@@ -236,13 +236,14 @@
       },
       "8": {
         "title": "Grupo Setto",
-        "description": "Landing page developed based on a Figma layout using HTML, TailwindCSS, and JavaScript.",
+        "description": "Showcase CMS for Vehicles and Real Estate built from scratch, integrated with Autoconf.",
         "link": "https://gruposetto.com.br/",
         "stacks": [
           "Laravel",
           "HTML",
           "JavaScript",
-          "TailwindCSS"
+          "TailwindCSS",
+          "AI"
         ]
       },
       "9": {
@@ -253,7 +254,8 @@
           "Laravel",
           "HTML",
           "JavaScript",
-          "TailwindCSS"
+          "TailwindCSS",
+          "AI"
         ]
       },
       "10": {
@@ -264,18 +266,19 @@
           "Laravel",
           "HTML",
           "JavaScript",
-          "TailwindCSS"
+          "TailwindCSS",
+          "AI"
         ]
       },
       "11": {
         "title": "LP LONNA",
         "description": "Showcase landing page with a service status panel for clients. It has two access levels: admin and client. Clients can view their service, delivery status, and watch a livestream of the service assembly. Developed using Laravel 8, HTML/CSS, JavaScript, MySQL, and TailwindCSS.",
-        "link": "https://justech.jusbrasil.com.br",
         "stacks": [
           "Laravel",
           "HTML",
           "JavaScript",
-          "TailwindCSS"
+          "TailwindCSS",
+          "AI"
         ]
       }
     },

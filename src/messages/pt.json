@@ -234,46 +234,49 @@
       },
       "8": {
         "title": "Grupo Setto",
-        "description": "Landing Page desenvolvidos com base em um Layout do figma utilizando HTML, Tailwindcss e Javascript",
+        "description": "CMS de vitrine de Veiculos e imóveis feito do zero, integrado com Autoconf.",
         "link": "https://gruposetto.com.br/",
         "stacks": [
           "Laravel",
           "HTML",
           "Javascript",
-          "Tailwindcss"
+          "Tailwindcss",
+          "AI"
         ]
       },
       "9": {
         "title": "Jusbrasil - impacto",
-        "description": "Um blog completo com painel CMS para cadastro e gestão de posts, categorias, usuários com diferentes níveis de acesso. Foi desenvolvido utilizando Laravel 8, HTML/CSS, Javascript MySQL e Tailwindcss.",
+        "description": "Um blog completo com painel CMS para cadastro e gestão de posts, categorias, usuários com diferentes níveis de acesso.",
         "link": "https://nossoimpacto.jusbrasil.com.br",
         "stacks": [
           "Laravel",
           "HTML",
           "Javascript",
-          "Tailwindcss"
+          "Tailwindcss",
+          "AI"
         ]
       },
       "10": {
         "title": "Jusbrasil - JUSTECH",
-        "description": "Um blog completo com painel CMS para cadastro e gestão de posts, categorias, usuários com diferentes níveis de acesso. Foi desenvolvido utilizando Laravel 8, HTML/CSS, Javascript MySQL e Tailwindcss.",
+        "description": "Um blog completo com painel CMS para cadastro e gestão de posts, categorias, usuários com diferentes níveis de acesso.",
         "link": "https://justech.jusbrasil.com.br",
         "stacks": [
           "Laravel",
           "HTML",
           "Javascript",
-          "Tailwindcss"
+          "Tailwindcss",
+          "AI"
         ]
       },
       "11": {
         "title": "LP LONNA",
-        "description": "Landing page de vitrine com um painel de status de serviço para clientes. Possui 2 niveis de acesso para admin e clientes onde o cliente consegue ver o seu serviço, status de entrega do serviço e possui uma livestream da montagem do serviço para acompanhar. Foi desenvolvido utilizando Laravel 8, HTML/CSS, Javascript MySQL e Tailwindcss. ",
-        "link": "https://justech.jusbrasil.com.br",
+        "description": "Landing page de vitrine com um painel de status de serviço para clientes.",
         "stacks": [
           "Laravel",
           "HTML",
           "Javascript",
-          "Tailwindcss"
+          "Tailwindcss",
+          "AI"
         ]
       }
     },
