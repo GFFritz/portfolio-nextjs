@@ -267,17 +267,6 @@
           "Tailwindcss",
           "AI"
         ]
-      },
-      "11": {
-        "title": "LP LONNA",
-        "description": "Landing page de vitrine com um painel de status de serviço para clientes.",
-        "stacks": [
-          "Laravel",
-          "HTML",
-          "Javascript",
-          "Tailwindcss",
-          "AI"
-        ]
       }
     },
     "personal": {
